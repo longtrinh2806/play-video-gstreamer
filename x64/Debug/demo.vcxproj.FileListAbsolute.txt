@@ -1,0 +1,4 @@
+D:\gstreamer-tutorial\demo\x64\Debug\demo.exe
+D:\gstreamer-tutorial\tutorial-01\x64\Debug\demo.exe
+D:\gstreamer-tutorial\02-basic-concepts\x64\Debug\tutorial-02.exe
+D:\gstreamer-tutorial\02-basic-concepts-project\x64\Debug\tutorial-02.exe
